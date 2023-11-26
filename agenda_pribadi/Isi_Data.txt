@@ -1,0 +1,25 @@
+Tanggal :12 desember 2023
+Jam:07:00
+Kegiatan:senam
+Keterangan:kantor gubernur banjarbaru
+
+Tanggal :12 desember 2023
+Jam:07:00
+Kegiatan:senam
+Keterangan:kantor gubernur banjarmasin
+
+Tanggal :27 agustus 2024
+Jam:12:00
+Kegiatan:latihan band
+Keterangan:studio musik bali banjarmasin
+
+Tanggal :20 desember 2023
+Jam:19:00
+Kegiatan:ngeband
+Keterangan:studio musik pinus banjarbaru
+
+Tanggal :13 januari 2023
+Jam:15:00
+Kegiatan:renang
+Keterangan:kolam renang antasari
+
